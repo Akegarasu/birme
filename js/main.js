@@ -109,7 +109,7 @@ const default_parameters = {
   wm_size: 18,
   wm_position: "bottom-right",
   wm_margin: 20,
-  quality_preset: "high"
+  quality_preset: "medium"
 };
 
 class BConfig {
